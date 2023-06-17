@@ -44,7 +44,7 @@ function addData() {
     profession: "intern"
   }
   arr.push(employee); // add it to the original array
-  console.log(arr[3]); // print the added employee
+  console.log(arr); // print the updated array
 }
 
 function removeAdmin() {
